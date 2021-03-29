@@ -1,0 +1,5 @@
+
+1. Create a web service that will get the sum of all the parameters pass and
+multiple the sum with the value of multiplier.number=20.42 in application.properties
+2. Study @PostMapping and study MySQL basic
+3. Submit your work (1) in https://github.com/
